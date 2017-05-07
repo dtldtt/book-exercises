@@ -90,4 +90,5 @@ int main() {
   print_rotations(rotations);
 
   return 0;
+    
 }
